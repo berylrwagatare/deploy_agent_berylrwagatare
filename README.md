@@ -1,6 +1,7 @@
 # Attendance Tracker – Project Bootstrapper
-
-## Overview
+## WALKTHROUGH VIDEO 
+https://youtu.be/XZktAk7xeK4
+## Overview 
 `setup_project.sh` is a shell script that automates the complete setup of the **Student Attendance Tracker** workspace. It handles directory creation, file generation, dynamic configuration via `sed`, environment validation, and graceful cleanup on user interruption.
 
 ---
