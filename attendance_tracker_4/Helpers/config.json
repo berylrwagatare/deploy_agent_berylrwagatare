@@ -1,8 +1,0 @@
-{
-  "thresholds": {
-    "warning": 3,
-    "failure": 100
-  },
-  "institution": "ALU",
-  "academic_year": "2025-2026"
-}
